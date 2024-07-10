@@ -1,7 +1,8 @@
 # Interactive-Graphs
-Use of Python 3.9
 Jupyter and Python Extensions needed
+Use of Python 3.9
 Before starting install the following:
+pip install jupyter
 pip install ipykernel
 pip install numpy
 pip install matplotlib
