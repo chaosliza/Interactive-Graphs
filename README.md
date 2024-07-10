@@ -1,7 +1,7 @@
 # Interactive-Graphs 
 Jupyter and Python Extensions needed \
 Use of Python 3.9 \
-Before starting install the following: \
+Before starting install the following via terminal: \
 pip install jupyter \
 pip install ipykernel \
 pip install numpy \
